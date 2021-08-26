@@ -1,1 +1,4 @@
 swathi Satheesan
+git config --global user.name "swathi"
+git config --global user.email swathisat91@gmail.com
+nhj
